@@ -1,6 +1,10 @@
-var greeting = "";
 
-var specialGuest = "Neil deGrasse Tyson"
+var greeting = "Hello, everybody!";
+console.log('greeting');
+
+var specialGuest = "Neil deGrasse Tyson";
+console.log( "Hello,"+"${specialGuest}!");
+
 
 var greetSpecialGuest = "" + specialGuest + "!";
 
